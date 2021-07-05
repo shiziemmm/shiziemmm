@@ -7,9 +7,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="spring_boot" />
-        <module name="spring-redis" />
         <module name="text" />
         <module name="spring-mvc" />
+        <module name="spring-redis" />
       </profile>
     </annotationProcessing>
   </component>
