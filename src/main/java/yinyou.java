@@ -3,6 +3,6 @@ public class yinyou {
         System.out.println("yinyou"); 
         System.out.println("shizi");
         System.out.println("xuhongyu");
-        System.out.println("尹友是我儿子");
+        System.out.println("徐宏鱼是我儿子");
     }
 }
